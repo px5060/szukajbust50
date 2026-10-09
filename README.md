@@ -4,7 +4,7 @@ Trzecia appka z rodziny SZUKAJ dla ciągu **Test50** (BET x1x). Ten sam silnik, 
 i wspólne kody z **T50 RAZEM**. Osobna appka: własny adres, ikona (czerwona, „B50”) i instalacja.
 
 Adres: **https://px5060.github.io/szukajbust50/**
-- **MOJE ZAKŁADY** (jak w RAZEM): w oknie statystyk modelu (przytrzymaj kartę albo wiersz tabeli) zapis zakładu zagranego naprawdę — Nr wiersza, krok, kwota; wynik z tabeli modelu (✔ WIN = +2 × stawka, ✗ przegrany, czeka). W zakładce MOJE podsumowanie (model · zakł. · kroki · postawione · wynik, Σ, według kroku) i lista wszystkich zakładów. Dotknięcie zakładu → TABELA modelu na wierszu zakładu.
+- **MOJE ZAKŁADY** (jak w RAZEM): w oknie statystyk modelu (przytrzymaj kartę albo wiersz tabeli) zapis zakładu zagranego naprawdę — Nr wiersza, krok, kwota; wynik z tabeli modelu (✔ WIN = +2 × stawka, ✗ przegrany, czeka). W zakładce MOJE podsumowanie (model · zakł. · kroki · postawione · wynik, Σ, według kroku) i lista wszystkich zakładów. Zapisany zakład dodaje model do MOJE GRY; dotknięcie zakładu → ten model w MOJE na chwilę w niebieskiej ramce.
 
 ## Wersja A: BUST od razu po BUST-cie
 
